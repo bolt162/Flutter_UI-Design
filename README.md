@@ -4,9 +4,9 @@ The main aim is to provide top quality track built cars to enthusiasts who canno
 
 # Intro Page
 
-<img width="337" alt="Screenshot 2024-09-29 at 11 51 54 PM" src="https://github.com/user-attachments/assets/4a512198-d403-47cf-b92b-c245fe572442">
+<img width="337" alt="Screenshot 2024-09-29 at 11 51 54 PM" src="https://github.com/user-attachments/assets/4a512198-d403-47cf-b92b-c245fe572442" style="border-radius:50%">
 
-<img width="335" alt="Screenshot 2024-09-30 at 8 52 10 AM" src="https://github.com/user-attachments/assets/dd2f75d2-5c5f-471f-86a4-611774e357ec">
+<img width="335" alt="Screenshot 2024-09-30 at 8 52 10 AM" src="https://github.com/user-attachments/assets/dd2f75d2-5c5f-471f-86a4-611774e357ec" style="border-radius:50%">
 
 
 # Home Page
