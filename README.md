@@ -1,6 +1,6 @@
 ## Sports car rental app
 
-The main aim of this application is to provide top quality track built cars to enthusiasts who cannot afford them. This application allows a template to anyone in the DFW area to book a track car foor track days at the Texas motor speedway.
+The main aim is to provide top quality track built cars to enthusiasts who cannot afford to buy them. This application allows anyone in the DFW area to rent a high performance car to track at the Texas motor speedway.
 
 # Intro Page
 
